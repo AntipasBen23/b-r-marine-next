@@ -7,17 +7,17 @@ export interface EquipmentItem {
 export const equipmentItems: EquipmentItem[] = [
   {
     name: "Hydraulic Excavator",
-    image: "/images/hydraulic-excavator.png",
+    image: "/images/Hydraulic-excavator.png",
     description: "High-performance hydraulic excavators for efficient earth-moving and mineral extraction operations.",
   },
   {
     name: "Rope Shovels",
-    image: "/images/rope-shovels.png",
+    image: "/images/Rope-shovels.png",
     description: "Heavy-duty rope shovels designed for large-scale surface mining and loading operations.",
   },
   {
     name: "Crawler Dozers",
-    image: "/images/crawler-dozers.png",
+    image: "/images/Crawler-dozers.png",
     description: "Powerful crawler dozers for site preparation, grading, and material handling.",
   },
   {
@@ -27,7 +27,7 @@ export const equipmentItems: EquipmentItem[] = [
   },
   {
     name: "Jaw Crushers",
-    image: "/images/jaw-crushers.png",
+    image: "/images/Jaw-crushers.png",
     description: "Industrial jaw crushers for primary crushing of mined rock and ore materials.",
   },
   {

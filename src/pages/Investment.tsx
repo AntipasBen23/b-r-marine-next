@@ -10,13 +10,13 @@ const opportunities = [
   {
     title: companyInfo.sites.kogi.name,
     description: `${companyInfo.sites.kogi.cadastralUnits} cadastral units focused on gold exploration and extraction in ${companyInfo.sites.kogi.location}.`,
-    image: "/images/projects/kogi-gold-hero.jpg",
+    image: "/images/kogi-gold.png",
     link: "/projects/kogi-gold",
   },
   {
     title: companyInfo.sites.crossRiver.name,
     description: `${companyInfo.sites.crossRiver.cadastralUnits} cadastral units with ${companyInfo.sites.crossRiver.mineralsCount}+ minerals identified in ${companyInfo.sites.crossRiver.location}.`,
-    image: "/images/projects/cross-river-hero.jpg",
+    image: "/images/cross-river.png",
     link: "/projects/cross-river",
   },
 ];

@@ -9,7 +9,7 @@ import { ArrowRight } from "lucide-react";
 const projects = [
   {
     site: companyInfo.sites.kogi,
-    image: "/images/projects/kogi-gold-hero.jpg",
+    image: "/images/kogi-site.jpg",
     link: "/projects/kogi-gold",
     stats: [
       { label: "Cadastral Units", value: "410" },
@@ -18,7 +18,7 @@ const projects = [
   },
   {
     site: companyInfo.sites.crossRiver,
-    image: "/images/projects/cross-river-hero.jpg",
+    image: "/images/cross-river-site.jpg",
     link: "/projects/cross-river",
     stats: [
       { label: "Cadastral Units", value: "310" },
