@@ -56,3 +56,5 @@ export const equipmentItems: EquipmentItem[] = [
     description: "Modern prefabricated mining camp housing for on-site personnel accommodation.",
   },
 ];
+
+// the end
